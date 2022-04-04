@@ -1,0 +1,11 @@
+https://github.com/bigheada35/spring2_2_work.git
+------------------------------------------------------
+…or create a new repository on the command line
+echo "# spring2_2_work" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bigheada35/spring2_2_work.git
+git push -u origin main
+------------------------------------------------------
